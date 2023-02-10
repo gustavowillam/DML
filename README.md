@@ -2,7 +2,7 @@
 
 ## - Aula 01 - Microsoft PowerBI
 
-* ### [1.1 - Dashboard Analise de Sentimentos - Tweets]()
+* ### [1.1 - Dashboard de Analise de Sentimentos - Tweets]()
 
 * ### [1.2 - Dashboard de Recursos Humanos - Retenção de Funcionários]()
 
@@ -14,7 +14,7 @@
 
 * ### [1.6 - Dashboard de Análise de Vendas]()
 
-* ### [1.7 - Power BI com Scripts Python para Análise de Vendas]()
+* ### [1.7 - Dashboard de Análise de Vendas com Scripts Python no PowerBI]()
 
 
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask

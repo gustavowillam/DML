@@ -21,13 +21,13 @@
 
 * ### [2.1 Dashboard de Análise de Vendas com dash, plotly e flask]()
 
-* ### [2.2 Dashboard de Análise de Vendas com dash, plotly - Deploy utilizando PythonAnyWhere e GitHub]()
+* ### [2.2 Dashboard de Análise de Vendas com dash, plotly - Deploy com PythonAnyWhere e GitHub]()
 
 
 ## - Aula 03 - Deploy de Aplicações Python
 
-* ### [3.1 - Desenvolvimento de uma Web API para predição de Empréstimos utilizando Flask]()
+* ### [3.1 - Desenvolvimento de um modelo de ML para predição de Empréstimos - Deploy com Flask]()
 
-* ### [3.2 - Desenvolvimento de uma Web API para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow, Streamlit e GitHub]()
+* ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub]()
 
-* ### [3.3 - Desenvolvimento de uma Web API para predição de Retenção de Funcionários utilizando Docker, MySQL, Data Lake, Apache Airflow, Streamlit e GitHub]()
+* ### [3.3 - Desenvolvimento de uma Modelo de ML para predição de Retenção de Funcionários utilizando Docker, MySQL, Data Lake, Apache Airflow - Deploy com Streamlit e GitHub]()

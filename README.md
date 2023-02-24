@@ -2,7 +2,7 @@
 
 ## - Aula 01 - Microsoft PowerBI
 
-* ### [1.1 - Dashboard de Analise de Sentimentos - Tweets]()
+* ### [1.1 - Dashboard de Analise de Sentimentos - Tweets](https://drive.google.com/drive/folders/1mO5yjAaRIO6GouemB0ZfLfI5yNzRWaKB?usp=sharing)
 
 * ### [1.2 - Dashboard de Recursos Humanos - Retenção de Funcionários]()
 

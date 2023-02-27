@@ -4,7 +4,7 @@
 
 * ### [1.1 - Dashboard de Analise de Sentimentos - Tweets](https://drive.google.com/drive/folders/1mO5yjAaRIO6GouemB0ZfLfI5yNzRWaKB?usp=sharing)
 
-* ### [1.2 - Dashboard de Recursos Humanos - Retenção de Funcionários]()
+* ### [1.2 - Dashboard de Recursos Humanos - Retenção de Funcionários](https://drive.google.com/drive/folders/1nIER0fun0j7eyCMkanPV5YOjV6ab9ZOv?usp=sharing)
 
 * ### [1.3 - Dashboard de Análise de Vendas Web - Market Place]()
 
@@ -14,7 +14,9 @@
 
 * ### [1.6 - Dashboard de Análise de Vendas]()
 
-* ### [1.7 - Dashboard de Análise de Vendas com Scripts Python no PowerBI]()
+* ### [1.7 - Dashboard de Análise de Lucro]()
+
+* ### [1.8 - Dashboard de Análise de Vendas com Scripts Python no PowerBI]()
 
 
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask

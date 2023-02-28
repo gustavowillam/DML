@@ -6,7 +6,7 @@
 
 * ### [1.2 - Dashboard de Recursos Humanos - Retenção de Funcionários](https://drive.google.com/drive/folders/1nIER0fun0j7eyCMkanPV5YOjV6ab9ZOv?usp=sharing)
 
-* ### [1.3 - Dashboard de Análise de Vendas Web - Market Place]()
+* ### [1.3 - Dashboard de Análise de Vendas Web - Market Place](https://drive.google.com/drive/folders/1nu8kX1h5qrAm4zgJm8bM7c9Fi-r88TeS?usp=sharing)
 
 * ### [1.4 - Dashboard de Atendimento de Clientes - Call Center]()
 

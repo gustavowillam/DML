@@ -6,19 +6,21 @@
 
 * ### [1.2 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1qs2xBtfnSBPJqanJgShhPPSK2QdxLJ2o?usp=sharing)
 
-* ### [1.3 - Dashboard de Recursos Humanos - Retenção de Funcionários](https://drive.google.com/drive/folders/1nIER0fun0j7eyCMkanPV5YOjV6ab9ZOv?usp=sharing)
+* ### [1.3 - Dashboard de Análise de Produção](https://drive.google.com/drive/folders/1r0Smosh9Sf1Y7TsW45Xo9Z2xmvz70AJO?usp=sharing)
 
-* ### [1.4 - Dashboard de Análise de Vendas Web - Market Place](https://drive.google.com/drive/folders/1nu8kX1h5qrAm4zgJm8bM7c9Fi-r88TeS?usp=sharing)
+* ### [1.4 - Dashboard de Recursos Humanos - Retenção de Funcionários](https://drive.google.com/drive/folders/1nIER0fun0j7eyCMkanPV5YOjV6ab9ZOv?usp=sharing)
 
-* ### [1.5 - Dashboard de Atendimento de Clientes - Call Center]
+* ### [1.5 - Dashboard de Análise de Vendas Web - Market Place](https://drive.google.com/drive/folders/1nu8kX1h5qrAm4zgJm8bM7c9Fi-r88TeS?usp=sharing)
 
-* ### [1.6 - Dashboard de Recursos Humanos - Satisfação de Funcionários]
+* ### [1.6 - Dashboard de Atendimento de Clientes - Call Center]
 
-* ### [1.7 - Dashboard de Análise de Vendas]
+* ### [1.7 - Dashboard de Recursos Humanos - Satisfação de Funcionários]
 
-* ### [1.8 - Dashboard de Análise de Lucro]
+* ### [1.8 - Dashboard de Análise de Vendas]
 
-* ### [1.9 - Dashboard de Análise de Vendas com Scripts Python no PowerBI]
+* ### [1.9 - Dashboard de Análise de Lucro]
+
+* ### [1.10 - Dashboard de Análise de Vendas com Scripts Python no PowerBI]
 
 
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask

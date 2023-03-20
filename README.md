@@ -12,7 +12,7 @@
 
 * ### [1.5 - Dashboard de Análise de Vendas Web - Market Place](https://drive.google.com/drive/folders/1nu8kX1h5qrAm4zgJm8bM7c9Fi-r88TeS?usp=sharing)
 
-* ### [1.6 - Dashboard de Atendimento de Clientes - Call Center]
+* ### [1.6 - Dashboard de Atendimento de Clientes - Call Center](https://drive.google.com/drive/folders/1mbmk4NugwI9e2ywtbWV4YGlJ6OkOlKg7?usp=sharing)
 
 * ### [1.7 - Dashboard de Recursos Humanos - Satisfação de Funcionários]
 

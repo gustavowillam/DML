@@ -16,7 +16,7 @@
 
 * ### [1.7 - Dashboard de Recursos Humanos - Satisfação de Funcionários](https://drive.google.com/drive/folders/1mcqhe7T3eL5e8Jl7nI6GViRrokqZmnEH?usp=sharing)
 
-* ### [1.8 - Dashboard de Análise de Vendas]
+* ### [1.8 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1mf0k3QUD0De90cJ_7E_bmovrCUrcqZJQ?usp=sharing)
 
 * ### [1.9 - Dashboard de Análise de Lucro]
 

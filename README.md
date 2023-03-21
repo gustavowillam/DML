@@ -14,7 +14,7 @@
 
 * ### [1.6 - Dashboard de Atendimento de Clientes - Call Center](https://drive.google.com/drive/folders/1mbmk4NugwI9e2ywtbWV4YGlJ6OkOlKg7?usp=sharing)
 
-* ### [1.7 - Dashboard de Recursos Humanos - Satisfação de Funcionários]
+* ### [1.7 - Dashboard de Recursos Humanos - Satisfação de Funcionários](https://drive.google.com/drive/folders/1mcqhe7T3eL5e8Jl7nI6GViRrokqZmnEH?usp=sharing)
 
 * ### [1.8 - Dashboard de Análise de Vendas]
 

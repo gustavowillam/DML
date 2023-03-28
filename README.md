@@ -20,7 +20,7 @@
 
 * ### [1.9 - Dashboard de Análise de Lucro](https://drive.google.com/drive/folders/1qFJXpM0Ogu_MW5F5udFIO8Ny4zpexj-I?usp=sharing)
 
-* ### [1.10 - Dashboard de Análise de Vendas com Scripts Python no PowerBI]
+* ### [1.10 - Dashboard de Análise de Vendas com Scripts Python no PowerBI](https://drive.google.com/drive/folders/1nDzSTNlK-o0HxtsaYw6_ws2lF1zWJ0E7?usp=sharing)
 
 
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask

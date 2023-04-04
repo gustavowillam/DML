@@ -25,7 +25,7 @@
 
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask
 
-* ### [2.1 Dashboard de Análise de Vendas com dash, plotly e flask](https://drive.google.com/drive/folders/1mb-Saw2sph4su2lD2PSrmVSm5zxjcrMw?usp=sharing)
+* ### [2.1 Dashboard de Análise de Vendas com dash, plotly](https://drive.google.com/drive/folders/1mb-Saw2sph4su2lD2PSrmVSm5zxjcrMw?usp=sharing)
 
 * ### [2.2 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard - Deploy com PythonAnyWhere e GitHub](https://drive.google.com/drive/folders/1o4HvI6X4vf58u5PBxI5ZEpN8Lg6fqScG?usp=sharing)
 

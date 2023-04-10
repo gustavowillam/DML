@@ -32,7 +32,7 @@
 
 ## - Aula 03 - Deploy de Aplicações Python
 
-* ### [3.1 - Desenvolvimento de um modelo de ML para predição de Empréstimos - Deploy com Flask]
+* ### [3.1 - Desenvolvimento de um modelo de ML para predição de Empréstimos - Deploy com Flask](https://drive.google.com/drive/folders/1331bM7LEOHzULZseUFzBP2cMb6GwM04O?usp=sharing)
 
 * ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub]
 

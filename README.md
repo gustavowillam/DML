@@ -34,6 +34,6 @@
 
 * ### [3.1 - Desenvolvimento de um modelo de ML para predição de Empréstimos - Deploy com Flask](https://drive.google.com/drive/folders/1331bM7LEOHzULZseUFzBP2cMb6GwM04O?usp=sharing)
 
-* ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub]
+* ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub](https://drive.google.com/drive/folders/1PMS7rptHlGttxx975U0N66J8PpzWfXYq?usp=sharing)
 
 * ### [3.3 - Desenvolvimento de uma Modelo de ML para predição de Retenção de Funcionários utilizando Docker, MySQL, Data Lake, Apache Airflow - Deploy com Streamlit e GitHub]

@@ -40,5 +40,5 @@
 
 * ### [4.1 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1v1XWq9psCJ1XkhUKDpBhJKfZ-MbB8auj?usp=sharing)
 
-* ### [4.2 - Dashboard de Análise de Feminicidios](https://drive.google.com/drive/folders/1v3h5X8VlCRHGF4y1I0DD6gYmhQuqK0tb?usp=sharing)
+* ### [4.2 - Dashboard de Análise de Feminicídios](https://drive.google.com/drive/folders/1v3h5X8VlCRHGF4y1I0DD6gYmhQuqK0tb?usp=sharing)
 

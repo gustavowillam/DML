@@ -36,4 +36,9 @@
 
 * ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub](https://drive.google.com/drive/folders/1PMS7rptHlGttxx975U0N66J8PpzWfXYq?usp=sharing)
 
-* ### [3.3 - Desenvolvimento de uma Modelo de ML para predição de Retenção de Funcionários utilizando Docker, MySQL, Data Lake, Apache Airflow - Deploy com Streamlit e GitHub]
+## - Aula 04 - Tableau
+
+* ### [4.1 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1v1XWq9psCJ1XkhUKDpBhJKfZ-MbB8auj?usp=sharing)
+
+* ### [4.2 - Dashboard de Análise de Feminicidios](https://drive.google.com/drive/folders/1v3h5X8VlCRHGF4y1I0DD6gYmhQuqK0tb?usp=sharing)
+
